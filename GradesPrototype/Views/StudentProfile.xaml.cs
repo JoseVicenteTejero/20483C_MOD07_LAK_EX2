@@ -118,7 +118,7 @@ namespace GradesPrototype.Views
                     SessionContext.Save();
 
                     // TODO: Exercise 2: Task 3e: Refresh the display so that the new grade appears
-                    Refresh();
+                    Refresh();5
                 }
             }
             catch (Exception ex)
